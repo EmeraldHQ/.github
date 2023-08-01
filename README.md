@@ -1,2 +1,2 @@
 # .github
-:octocat: Renew's GitHub global configuration
+:octocat: Emerald's GitHub global configuration
